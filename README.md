@@ -15,6 +15,8 @@ As we continue to build out this website, we are increasingly motivated by our m
 ## Features
 Currently, the only functioning page in the website is the home page, which includes links for the application and contact form. This page is a simple landing page esigned for ease of use to provide members and visitors with a comprehensive look at what the club and website are about. This website was built from scratch using React and designed with Figma, which allows us to have a lot more control over the functionality of the website.
 
+Click this link to see what is cooking in the cafteria
+
 ## Next Steps
 Currently, we want to add four additional pages to the website with various features.
 1. The Wall Of Fame page will show off member projects for every workshop, as well as any side projects they have built.
